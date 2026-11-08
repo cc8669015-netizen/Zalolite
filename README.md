@@ -1,6 +1,6 @@
-# Zalolite
+# Zalolite - APP ZALO CHO WINDOWS 10 MOBILE
 
-APP ZALO CHO WINDOWS 10 MOBILE
+
 
 > Windows 10 Mobile đã hết hỗ trợ từ 14/01/2020. Dự án này dành cho những ai vẫn đang dùng máy đó và muốn sử dụng được Zalo.
 
