@@ -49,6 +49,7 @@
 <img width="453" height="864" alt="zalo2" src="https://github.com/user-attachments/assets/f0835093-fb05-40e0-b91a-4c13786c3e52" />
 <img width="463" height="864" alt="zalo1" src="https://github.com/user-attachments/assets/85c0a6bb-7543-4e70-ba02-0847ed166bb2" />
 <img width="496" height="894" alt="Untitled" src="https://github.com/user-attachments/assets/0d99be9b-f001-4c79-95c4-a074d6be953a" />
+
 ## Khắc phục sự cố
 
 Trong phần tài khoản có nhật kí lỗi, ai gặp vấn đề gì thì lấy nhật kí ở đó và gửi qua email: cc8669015@gmail.com (mình check mail liên tục nên yên tâm)
