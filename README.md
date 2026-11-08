@@ -45,6 +45,9 @@
 - Mang đến nhiều tính năng nâng cao nữa
 
 ## Screenshot
+<img width="462" height="864" alt="Ảnh3" src="https://github.com/user-attachments/assets/5e56dd3e-b162-4120-80be-dd9a47b523d8" />
+<img width="453" height="864" alt="zalo2" src="https://github.com/user-attachments/assets/f0835093-fb05-40e0-b91a-4c13786c3e52" />
+<img width="463" height="864" alt="zalo1" src="https://github.com/user-attachments/assets/85c0a6bb-7543-4e70-ba02-0847ed166bb2" />
 
 ## Khắc phục sự cố
 
